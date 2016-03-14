@@ -48,3 +48,4 @@ end
 group :test, :development do
   gem 'teaspoon-jasmine' # can be also -mocha or -qunit
 end
+gem 'phantomjs', group: :test
