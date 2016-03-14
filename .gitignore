@@ -33,3 +33,6 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+/assets/jspm_packages/*/**
+/public/assets/
+/assets/**/*.map
